@@ -1,12 +1,19 @@
-# Desarrollo_Web_API-Sakila
-Repositorio de trabajo para el proyecto final de la API con base de datos Sakila
+Acceso a la base de datos Sakila en el proyecto:
 
-# Cómo ejecutar el proyecto
+Conexión a la Sakila desde localhost:
 
-Escribir el siguiente comando en la consola.
+- host: hostlocal
+- puerto: 3306
+- Nombre de la base de datos: sakila
+- usuario: root
+- contraseña: mariadb
 
-```bash
-cd backend && npm install && npm run start
-```
+--------------------------------------------------------------------------------
 
-Ir a la dirección http://localhost:3000
+Conexión a Sakila Online:
+
+- Host: bdxzlfnl0hkj6tubc5bu-mysql.services.clever-cloud.com
+- Puerto: 3306
+- Nombre de la base de datos: bdxzlfnl0hkj6tubc5bu
+- Usuario: urtbolltvvyvy4yr
+- Contraseña: NNwetQBHy7Q5l7eN0njj
